@@ -45,4 +45,4 @@ Demographics & Roles: By department, job roles, and education levels
 The IBM HR Analysis Dashboard highlights that attrition is significantly influenced by job role, overtime, and work-life balance. Insights reveal that Sales Executives and Research Scientists show higher attrition, while better work-life balance correlates with lower attrition. This analysis enables HR managers to develop targeted retention strategies, improve employee satisfaction, and enhance organizational stability.
 
 Screenshot/Demo
-Example:
+Example: https://github.com/SHAIKROUHEEAUCSE/IBM_HRAnalysis-Dashboard/blob/main/Snapshot.png
